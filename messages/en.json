@@ -334,5 +334,97 @@
             "category": "Virtualization",
             "description": "Virtualization and cloud infrastructure"
         }
+    },
+    "services": {
+        "comprehensiveItSolutions": "Comprehensive IT Solutions",
+        "our": "Our",
+        "services": "Services",
+        "servicesSubheadline": "Comprehensive IT solutions designed to transform your business and drive digital innovation across all sectors",
+        "exploreAllServices": "Explore All Services",
+        "ourServices": "Our Services",
+        "completeItSolutions": "Complete IT Solutions",
+        "learnMore": "Learn More",
+        "keyFeatures": "Key Features:",
+        "itInfrastructureNetworkingTitle": "IT Infrastructure & Networking",
+        "itInfrastructureNetworkingDescription": "Complete design, implementation, and maintenance of robust IT infrastructure and networking solutions.",
+        "itInfrastructureNetworkingFeatures": {
+            "networkDesign": "Network Design",
+            "serverSetup": "Server Setup",
+            "infrastructureMaintenance": "Infrastructure Maintenance",
+            "performanceOptimization": "Performance Optimization"
+        },
+        "enterpriseSoftwareSolutionsTitle": "Enterprise Software Solutions",
+        "enterpriseSoftwareSolutionsDescription": "Custom ERP, financial systems, and enterprise applications tailored to your business needs.",
+        "enterpriseSoftwareSolutionsFeatures": {
+            "erpSystems": "ERP Systems",
+            "financialSoftware": "Financial Software",
+            "insuranceSolutions": "Insurance Solutions",
+            "customDevelopment": "Custom Development"
+        },
+        "coreBankingSystemsTitle": "Core Banking Systems",
+        "coreBankingSystemsDescription": "Comprehensive banking solutions powered by Temenos for modern financial institutions.",
+        "coreBankingSystemsFeatures": {
+            "temenosImplementation": "Temenos Implementation",
+            "bankingModules": "Banking Modules",
+            "paymentSystems": "Payment Systems",
+            "complianceTools": "Compliance Tools"
+        },
+        "documentManagementTitle": "Document Management",
+        "documentManagementDescription": "SAPERION-powered electronic document management systems for efficient workflow automation.",
+        "documentManagementFeatures": {
+            "documentDigitization": "Document Digitization",
+            "workflowAutomation": "Workflow Automation",
+            "archiveManagement": "Archive Management",
+            "searchRetrieval": "Search & Retrieval"
+        },
+        "networkSecurityTitle": "Network Security",
+        "networkSecurityDescription": "Advanced security solutions including firewalls, intrusion detection, and threat prevention.",
+        "networkSecurityFeatures": {
+            "firewallConfiguration": "Firewall Configuration",
+            "idsIps": "IDS/IPS",
+            "securityAudits": "Security Audits",
+            "threatMonitoring": "Threat Monitoring"
+        },
+        "mediaWebServicesTitle": "Media & Web Services",
+        "mediaWebServicesDescription": "Creative design, web development, and multimedia solutions for modern businesses.",
+        "mediaWebServicesFeatures": {
+            "webDevelopment": "Web Development",
+            "3dDesign": "3D Design",
+            "branding": "Branding",
+            "digitalMarketing": "Digital Marketing"
+        },
+        "mediaProductionDivision": "Media Production Division",
+        "mediaServicesHeadline": "Creative & Media Services",
+        "mediaServicesSubheadline": "Bringing your brand to life with cutting-edge design, development, and multimedia solutions",
+        "mediaWebDevelopmentTitle": "Web Development",
+        "mediaWebDevelopmentDescription": "Modern, responsive websites and web applications",
+        "media3dDesignTitle": "3D Design & Animation",
+        "media3dDesignDescription": "Professional 3D modeling, rendering, and animations",
+        "mediaBrandingTitle": "Branding & Identity",
+        "mediaBrandingDescription": "Complete brand identity and visual design solutions",
+        "mediaDigitalMarketingTitle": "Digital Marketing",
+        "mediaDigitalMarketingDescription": "Creative digital marketing campaigns and materials",
+        "mediaComprehensiveSolutionsTitle": "Comprehensive Creative Solutions",
+        "mediaComprehensiveSolutionsDescription": "Our media production division combines technical expertise with creative vision to deliver exceptional digital experiences. From corporate websites to immersive 3D presentations, we help brands communicate effectively in the digital age.",
+        "mediaProfessionalTeamTitle": "Professional Design Team",
+        "mediaProfessionalTeamDescription": "Expert designers and developers with years of experience",
+        "mediaLatestTechTitle": "Latest Technologies",
+        "mediaLatestTechDescription": "Using cutting-edge tools and frameworks for optimal results",
+        "mediaEndToEndTitle": "End-to-End Service",
+        "mediaEndToEndDescription": "From concept to deployment, we handle every aspect of your project",
+        "mediaViewPortfolio": "View Portfolio",
+        "mediaClientsHeadline": "Our Media Clients",
+        "clientSudatel": "Sudatel",
+        "clientSudatelProject": "Corporate Website & Branding",
+        "clientAmipharma": "Amipharma",
+        "clientAmipharmaProject": "Product Catalog & Marketing",
+        "clientOmdurmanBank": "Omdurman National Bank",
+        "clientOmdurmanBankProject": "Digital Banking Interface",
+        "clientVariousCorporations": "Various Corporations",
+        "clientVariousCorporationsProject": "3D Walkthroughs",
+        "servicesCtaHeadline": "Ready to Get Started?",
+        "servicesCtaDescription": "Transform your business with our comprehensive IT solutions. Our expert team is ready to help you achieve your digital transformation goals.",
+        "servicesCtaScheduleButton": "Schedule Consultation",
+        "servicesCtaViewCaseStudiesButton": "View Case Studies"
     }
 }

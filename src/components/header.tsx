@@ -36,7 +36,7 @@ export function Header() {
             <div className="container mx-auto px-4 sm:px-6 lg:px-8">
                 <div className="flex justify-between items-center h-16">
                     {/* Logo */}
-                    <Link href="/" className="flex items-center gap-2 font-sans"  dir={"ltr"}>
+                    <Link href="/" className="flex items-center gap-2 font-sans" dir={"ltr"}>
                         <Image className={" h-8 w-8 "} src={"/logo.gif"} width={"36"} height={"36"} alt={"O"}/>
                         <div className="flex items-center font-sans" dir={"ltr"}>
                             <div className="text-2xl font-bold text-primary-900">IT WAY</div>
@@ -48,7 +48,7 @@ export function Header() {
                         {navItems.map((item) => (
                             <a
                                 key={item.name}
-                                href={item.href.startsWith("#") ? item.href : `/${locale}${item.href}`}
+                                href={item.href}
                                 className="text-gray-700 hover:text-primary-700 transition-colors duration-200"
                             >
                                 {item.name}
@@ -74,7 +74,7 @@ export function Header() {
                             {navItems.map((item) => (
                                 <a
                                     key={item.name}
-                                    href={item.href.startsWith("#") ? item.href : `/${locale}${item.href}`}
+                                    href={item.href.startsWith("#") ? item.href : `${item.href}`}
                                     className="block px-3 py-2 text-gray-700 hover:text-blue-600"
                                     onClick={() => setIsMenuOpen(false)}
                                 >

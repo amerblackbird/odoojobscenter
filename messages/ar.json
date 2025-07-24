@@ -334,5 +334,97 @@
             "category": "الافتراضية",
             "description": "حلول الافتراضية والبنية التحتية السحابية"
         }
+    },
+    "services": {
+        "comprehensiveItSolutions": "حلول تقنية المعلومات الشاملة",
+        "our": "خدماتنا",
+        "services": "الخدمات",
+        "servicesSubheadline": "حلول تقنية معلومات شاملة مصممة لتحويل عملك ودفع الابتكار الرقمي عبر جميع القطاعات",
+        "exploreAllServices": "استكشف جميع الخدمات",
+        "ourServices": "خدماتنا",
+        "completeItSolutions": "حلول تقنية المعلومات الكاملة",
+        "learnMore": "اعرف المزيد",
+        "keyFeatures": "الميزات الرئيسية:",
+        "itInfrastructureNetworkingTitle": "البنية التحتية لتقنية المعلومات والشبكات",
+        "itInfrastructureNetworkingDescription": "تصميم وتنفيذ وصيانة كاملة للبنية التحتية لتقنية المعلومات وحلول الشبكات القوية.",
+        "itInfrastructureNetworkingFeatures": {
+            "networkDesign": "تصميم الشبكة",
+            "serverSetup": "إعداد الخوادم",
+            "infrastructureMaintenance": "صيانة البنية التحتية",
+            "performanceOptimization": "تحسين الأداء"
+        },
+        "enterpriseSoftwareSolutionsTitle": "حلول برمجيات المؤسسات",
+        "enterpriseSoftwareSolutionsDescription": "أنظمة ERP مخصصة، وبرمجيات مالية، وتطبيقات مؤسسات مصممة حسب احتياجات عملك.",
+        "enterpriseSoftwareSolutionsFeatures": {
+            "erpSystems": "أنظمة ERP",
+            "financialSoftware": "برمجيات مالية",
+            "insuranceSolutions": "حلول التأمين",
+            "customDevelopment": "تطوير مخصص"
+        },
+        "coreBankingSystemsTitle": "أنظمة المصرفية الأساسية",
+        "coreBankingSystemsDescription": "حلول مصرفية شاملة مدعومة من Temenos للمؤسسات المالية الحديثة.",
+        "coreBankingSystemsFeatures": {
+            "temenosImplementation": "تنفيذ Temenos",
+            "bankingModules": "وحدات مصرفية",
+            "paymentSystems": "أنظمة الدفع",
+            "complianceTools": "أدوات الامتثال"
+        },
+        "documentManagementTitle": "إدارة الوثائق",
+        "documentManagementDescription": "أنظمة إدارة الوثائق الإلكترونية المدعومة من SAPERION لأتمتة سير العمل بكفاءة.",
+        "documentManagementFeatures": {
+            "documentDigitization": "رقمنة الوثائق",
+            "workflowAutomation": "أتمتة سير العمل",
+            "archiveManagement": "إدارة الأرشيف",
+            "searchRetrieval": "البحث والاسترجاع"
+        },
+        "networkSecurityTitle": "أمان الشبكات",
+        "networkSecurityDescription": "حلول أمان متقدمة تشمل الجدران النارية، واكتشاف التسلل، ومنع التهديدات.",
+        "networkSecurityFeatures": {
+            "firewallConfiguration": "تهيئة الجدار الناري",
+            "idsIps": "اكتشاف ومنع التسلل IDS/IPS",
+            "securityAudits": "تدقيق الأمان",
+            "threatMonitoring": "مراقبة التهديدات"
+        },
+        "mediaWebServicesTitle": "خدمات الإعلام والويب",
+        "mediaWebServicesDescription": "تصميم إبداعي، تطوير مواقع الويب، وحلول الوسائط المتعددة للأعمال الحديثة.",
+        "mediaWebServicesFeatures": {
+            "webDevelopment": "تطوير مواقع الويب",
+            "3dDesign": "تصميم ثلاثي الأبعاد",
+            "branding": "العلامة التجارية",
+            "digitalMarketing": "التسويق الرقمي"
+        },
+        "mediaProductionDivision": "قسم إنتاج الوسائط",
+        "mediaServicesHeadline": "خدمات الإبداع والإعلام",
+        "mediaServicesSubheadline": "نجعل علامتك التجارية تنبض بالحياة من خلال التصميم والتطوير وحلول الوسائط المتعددة المتقدمة",
+        "mediaWebDevelopmentTitle": "تطوير مواقع الويب",
+        "mediaWebDevelopmentDescription": "مواقع وتطبيقات ويب حديثة ومتجاوبة",
+        "media3dDesignTitle": "تصميم وتحريك ثلاثي الأبعاد",
+        "media3dDesignDescription": "نمذجة ثلاثية الأبعاد احترافية وعروض وتحريكات",
+        "mediaBrandingTitle": "العلامة التجارية والهوية",
+        "mediaBrandingDescription": "حلول متكاملة لهوية العلامة التجارية والتصميم البصري",
+        "mediaDigitalMarketingTitle": "التسويق الرقمي",
+        "mediaDigitalMarketingDescription": "حملات ومواد تسويق رقمي إبداعية",
+        "mediaComprehensiveSolutionsTitle": "حلول إبداعية شاملة",
+        "mediaComprehensiveSolutionsDescription": "يجمع قسم إنتاج الوسائط لدينا بين الخبرة التقنية والرؤية الإبداعية لتقديم تجارب رقمية استثنائية. من مواقع الشركات إلى العروض ثلاثية الأبعاد الغامرة، نساعد العلامات التجارية على التواصل بفعالية في العصر الرقمي.",
+        "mediaProfessionalTeamTitle": "فريق التصميم المحترف",
+        "mediaProfessionalTeamDescription": "مصممون ومطورون خبراء لديهم سنوات من الخبرة",
+        "mediaLatestTechTitle": "أحدث التقنيات",
+        "mediaLatestTechDescription": "استخدام أدوات وأطر عمل متقدمة لتحقيق أفضل النتائج",
+        "mediaEndToEndTitle": "خدمة شاملة",
+        "mediaEndToEndDescription": "من الفكرة إلى النشر، نتولى جميع جوانب مشروعك",
+        "mediaViewPortfolio": "عرض الأعمال",
+        "mediaClientsHeadline": "عملاء قسم الوسائط",
+        "clientSudatel": "سوداتل",
+        "clientSudatelProject": "موقع الشركة والعلامة التجارية",
+        "clientAmipharma": "أمي فارما",
+        "clientAmipharmaProject": "كتالوج المنتجات والتسويق",
+        "clientOmdurmanBank": "بنك أم درمان الوطني",
+        "clientOmdurmanBankProject": "واجهة الخدمات المصرفية الرقمية",
+        "clientVariousCorporations": "شركات متنوعة",
+        "clientVariousCorporationsProject": "جولات ثلاثية الأبعاد",
+        "servicesCtaHeadline": "هل أنت جاهز للبدء؟",
+        "servicesCtaDescription": "حوّل عملك مع حلول تقنية المعلومات الشاملة لدينا. فريقنا الخبير جاهز لمساعدتك في تحقيق أهداف التحول الرقمي.",
+        "servicesCtaScheduleButton": "جدولة استشارة",
+        "servicesCtaViewCaseStudiesButton": "عرض دراسات الحالة"
     }
 }

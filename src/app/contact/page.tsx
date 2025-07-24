@@ -1,10 +1,17 @@
-export default function HireTalentPage() {
+import { Header } from "@/components/header"
+import { Footer } from "@/components/footer"
+import { ContactHeroSection } from "@/components/contact-hero-section"
+import { ContactSection } from "@/components/contact-section"
+import { ContactInfoSection } from "@/components/contact-info-section"
+
+export default function ContactPage() {
   return (
-      <div className="min-h-screen bg-gray-50 flex items-center justify-center">
-        <div className="text-center">
-          <h1 className="text-4xl font-bold text-gray-900 mb-4">Contact</h1>
-          <p className="text-gray-600">This page is coming soon!</p>
-        </div>
-      </div>
+      <main className="min-h-screen overflow-y-auto overflow-x-hidden max-w-full">
+      <Header />
+      <ContactHeroSection />
+      <ContactInfoSection />
+      <ContactSection />
+      <Footer />
+    </main>
   )
 }

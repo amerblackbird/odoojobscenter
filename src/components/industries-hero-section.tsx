@@ -14,12 +14,12 @@ export function IndustriesHeroSection() {
   ]
 
   return (
-    <section className="pt-24 pb-16 bg-gradient-to-br from-gray-50 to-white overflow-hidden">
-      {/* Subtle background elements */}
-      <div className="absolute inset-0">
-        <div className="absolute top-32 left-10 w-32 h-32 bg-primary-100/20 rounded-full blur-3xl"></div>
-        <div className="absolute bottom-20 right-10 w-40 h-40 bg-secondary-100/20 rounded-full blur-3xl"></div>
-      </div>
+    <section className="relative pt-24 pb-16 bg-gradient-to-br from-gray-50 to-white overflow-hidden">
+      {/*/!* Subtle background elements *!/*/}
+      {/*<div className="absolute inset-0">*/}
+      {/*  <div className="absolute top-32 left-10 w-32 h-32 bg-primary-100/20 rounded-full blur-3xl"></div>*/}
+      {/*  <div className="absolute bottom-20 right-10 w-40 h-40 bg-secondary-100/20 rounded-full blur-3xl"></div>*/}
+      {/*</div>*/}
 
       <div className="relative z-10 container mx-auto px-4 sm:px-6 lg:px-8">
         <div className="max-w-4xl mx-auto text-center">
