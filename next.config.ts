@@ -3,6 +3,11 @@ import createNextIntlPlugin from "next-intl/plugin";
 
 
 const nextConfig: NextConfig = {
+    env: {
+        API_PREFIX: process.env.API_PREFIX ?? "/api/v1",
+        PORT: process.env.PORT ?? "3001",
+        BACKEND_URL: process.env.BACKEND_URL ?? "http://localhost:3000",
+    },
     /* config options here */
     images: {
         remotePatterns: [
@@ -32,7 +37,6 @@ const nextConfig: NextConfig = {
         // Ensure the filename for the .wasm bundle is the same on both the client
         // and the server (as in any other mode the ID's won't match)
         config.optimization.moduleIds = "named";
-
 
         return config
     },
